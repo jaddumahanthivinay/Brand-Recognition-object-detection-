@@ -13,3 +13,4 @@ and startup (Skippi and Beyondsnack of shark tank).
 
 Since I was working alone on this project, I have executed it in Colab notebook instead of end to end application with api/UI. 
 The custom dataset required for this project was collected from internet and annotated online.
+yolov5s model was used.
