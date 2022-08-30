@@ -1,0 +1,8 @@
+names:
+- beyondsnack
+- pistahouse
+- priya
+- skippi
+nc: 4
+train: /content/datasets/brand_detection-3/train/images
+val: /content/datasets/brand_detection-3/valid/images
